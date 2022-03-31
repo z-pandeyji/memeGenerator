@@ -35,6 +35,15 @@ header {
     font-size: 12px;
     font-weight: 500;
 }
+a {
+    color: whitesmoke;
+    display: contents;
+    font-family: cursive;
+    font-weight: 700;}
+a:hover {
+    font-size: 150%;
+}
+
 
 .form{
     display: grid;
