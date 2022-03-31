@@ -16,13 +16,13 @@ header {
     display: flex;
     align-items: center;
     height: 65px;
-    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    background: linear-gradient(90deg, #565656 1.18%, #aaa 100%);
     color: white;
     padding: 20px;
 }
 
 .header-image {
-    height: 140%;
+    height: 160%;
     margin-right: 6px;
 }
 
@@ -36,7 +36,7 @@ header {
     font-weight: 500;
 }
 a {
-    color: whitesmoke;
+    color: #565656;
     display: contents;
     font-family: cursive;
     font-weight: 700;}
